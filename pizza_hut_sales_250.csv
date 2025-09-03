@@ -1,0 +1,251 @@
+Order ID,Order Date,Delivery Time (min),City,State,Region,Pizza Type,Size,Quantity,Price per Pizza,Total Sales,Discount,Profit,Order Type
+PH-1001,2023-11-24,22,Mumbai,Maharashtra,West,Cheese Burst,Small,2,150,300,0.05,185.0,Takeaway
+PH-1002,2023-02-22,49,Pune,Maharashtra,West,Chicken Sausage,Small,1,480,480,0.0,250.0,Dine-in
+PH-1003,2023-04-30,47,Ahmedabad,Gujarat,West,Margherita,Large,2,250,500,0.2,200.0,Delivery
+PH-1004,2023-04-23,43,Ahmedabad,Gujarat,West,Cheese Burst,Small,2,150,300,0.15,155.0,Delivery
+PH-1005,2023-05-23,24,Jaipur,Rajasthan,North,Farmhouse,Small,1,280,280,0.15,108.0,Dine-in
+PH-1006,2023-07-03,37,Ahmedabad,Gujarat,West,Cheese Burst,Small,4,150,600,0.2,280.0,Dine-in
+PH-1007,2023-07-13,20,Lucknow,Uttar Pradesh,North,Cheese Burst,Large,5,150,750,0.1,425.0,Takeaway
+PH-1008,2023-04-09,19,Mumbai,Maharashtra,West,BBQ Chicken,Medium,1,500,500,0.05,275.0,Dine-in
+PH-1009,2023-07-14,32,Kolkata,West Bengal,East,Farmhouse,Small,3,280,840,0.1,366.0,Dine-in
+PH-1010,2023-12-10,32,Pune,Maharashtra,West,Veggie Supreme,Large,2,300,600,0.05,370.0,Delivery
+PH-1011,2023-07-14,32,Lucknow,Uttar Pradesh,North,BBQ Chicken,Large,3,500,1500,0.0,900.0,Dine-in
+PH-1012,2023-01-17,35,Hyderabad,Telangana,South,Cheese Burst,Small,2,150,300,0.2,140.0,Takeaway
+PH-1013,2023-06-11,28,Kolkata,West Bengal,East,Chicken Sausage,Large,4,480,1920,0.05,904.0,Delivery
+PH-1014,2023-03-13,30,Lucknow,Uttar Pradesh,North,Cheese Burst,Large,5,150,750,0.15,387.5,Takeaway
+PH-1015,2023-07-24,38,Jaipur,Rajasthan,North,Veggie Supreme,Large,4,300,1200,0.0,800.0,Dine-in
+PH-1016,2023-02-26,24,Delhi,Delhi,North,Chicken Sausage,Large,1,480,480,0.15,178.0,Delivery
+PH-1017,2023-11-02,44,Lucknow,Uttar Pradesh,North,Cheese Burst,Large,1,150,150,0.0,100.0,Takeaway
+PH-1018,2023-10-02,32,Chennai,Tamil Nadu,South,Pepperoni,Medium,4,450,1800,0.05,630.0,Delivery
+PH-1019,2023-01-02,31,Lucknow,Uttar Pradesh,North,Veggie Supreme,Large,1,300,300,0.1,170.0,Takeaway
+PH-1020,2023-09-17,27,Delhi,Delhi,North,Farmhouse,Small,5,280,1400,0.2,470.0,Dine-in
+PH-1021,2023-11-03,35,Kolkata,West Bengal,East,Margherita,Small,3,250,750,0.1,375.0,Dine-in
+PH-1022,2023-01-30,30,Ahmedabad,Gujarat,West,Pepperoni,Small,4,450,1800,0.0,720.0,Takeaway
+PH-1023,2023-03-06,23,Kolkata,West Bengal,East,Veggie Supreme,Medium,5,300,1500,0.2,700.0,Delivery
+PH-1024,2023-04-19,49,Jaipur,Rajasthan,North,Cheese Burst,Medium,3,150,450,0.15,232.5,Takeaway
+PH-1025,2023-08-20,22,Jaipur,Rajasthan,North,BBQ Chicken,Small,3,500,1500,0.0,900.0,Takeaway
+PH-1026,2023-10-11,29,Ahmedabad,Gujarat,West,BBQ Chicken,Small,1,500,500,0.0,300.0,Dine-in
+PH-1027,2023-02-04,17,Chennai,Tamil Nadu,South,Pepperoni,Large,2,450,900,0.1,270.0,Takeaway
+PH-1028,2023-09-06,28,Lucknow,Uttar Pradesh,North,Veggie Supreme,Large,5,300,1500,0.2,700.0,Delivery
+PH-1029,2023-05-05,45,Hyderabad,Telangana,South,BBQ Chicken,Small,1,500,500,0.15,225.0,Delivery
+PH-1030,2023-08-05,41,Kolkata,West Bengal,East,Margherita,Large,1,250,250,0.0,150.0,Delivery
+PH-1031,2023-06-23,21,Jaipur,Rajasthan,North,BBQ Chicken,Small,5,500,2500,0.15,1125.0,Dine-in
+PH-1032,2023-08-05,26,Bengaluru,Karnataka,South,Mexican Green Wave,Small,1,270,270,0.15,109.5,Takeaway
+PH-1033,2023-02-20,18,Lucknow,Uttar Pradesh,North,Margherita,Small,2,250,500,0.05,275.0,Delivery
+PH-1034,2023-09-06,45,Jaipur,Rajasthan,North,Chicken Sausage,Small,2,480,960,0.15,356.0,Dine-in
+PH-1035,2023-07-19,31,Kolkata,West Bengal,East,Cheese Burst,Medium,5,150,750,0.15,387.5,Dine-in
+PH-1036,2023-04-08,33,Jaipur,Rajasthan,North,Margherita,Large,5,250,1250,0.0,750.0,Takeaway
+PH-1037,2023-06-10,18,Mumbai,Maharashtra,West,Mexican Green Wave,Large,5,270,1350,0.05,682.5,Dine-in
+PH-1038,2023-09-18,20,Delhi,Delhi,North,Pepperoni,Large,1,450,450,0.05,157.5,Delivery
+PH-1039,2023-03-03,30,Ahmedabad,Gujarat,West,Margherita,Large,1,250,250,0.15,112.5,Takeaway
+PH-1040,2023-10-26,48,Chennai,Tamil Nadu,South,Cheese Burst,Small,3,150,450,0.05,277.5,Delivery
+PH-1041,2023-07-22,23,Bengaluru,Karnataka,South,Mexican Green Wave,Medium,1,270,270,0.0,150.0,Delivery
+PH-1042,2023-11-15,21,Pune,Maharashtra,West,BBQ Chicken,Large,3,500,1500,0.05,825.0,Delivery
+PH-1043,2023-02-05,30,Chennai,Tamil Nadu,South,Cheese Burst,Small,4,150,600,0.2,280.0,Takeaway
+PH-1044,2023-06-04,48,Mumbai,Maharashtra,West,Cheese Burst,Large,1,150,150,0.05,92.5,Delivery
+PH-1045,2023-03-01,21,Lucknow,Uttar Pradesh,North,Veggie Supreme,Medium,3,300,900,0.2,420.0,Dine-in
+PH-1046,2023-06-25,28,Bengaluru,Karnataka,South,Mexican Green Wave,Medium,1,270,270,0.0,150.0,Takeaway
+PH-1047,2023-08-05,32,Mumbai,Maharashtra,West,Margherita,Medium,2,250,500,0.1,250.0,Dine-in
+PH-1048,2023-08-15,50,Hyderabad,Telangana,South,Margherita,Small,1,250,250,0.05,137.5,Takeaway
+PH-1049,2023-01-19,38,Ahmedabad,Gujarat,West,Veggie Supreme,Medium,2,300,600,0.0,400.0,Delivery
+PH-1050,2023-07-06,17,Chennai,Tamil Nadu,South,BBQ Chicken,Large,2,500,1000,0.0,600.0,Delivery
+PH-1051,2023-10-14,41,Ahmedabad,Gujarat,West,Veggie Supreme,Small,2,300,600,0.05,370.0,Delivery
+PH-1052,2023-01-13,26,Chennai,Tamil Nadu,South,Chicken Sausage,Large,2,480,960,0.1,404.0,Dine-in
+PH-1053,2023-12-26,21,Hyderabad,Telangana,South,Margherita,Medium,2,250,500,0.05,275.0,Delivery
+PH-1054,2023-06-29,34,Jaipur,Rajasthan,North,BBQ Chicken,Small,2,500,1000,0.15,450.0,Delivery
+PH-1055,2023-05-23,19,Bengaluru,Karnataka,South,Farmhouse,Large,5,280,1400,0.15,540.0,Takeaway
+PH-1056,2023-10-02,36,Mumbai,Maharashtra,West,Pepperoni,Medium,2,450,900,0.2,180.0,Delivery
+PH-1057,2023-01-20,21,Ahmedabad,Gujarat,West,Chicken Sausage,Medium,3,480,1440,0.15,534.0,Takeaway
+PH-1058,2023-09-19,22,Hyderabad,Telangana,South,BBQ Chicken,Medium,1,500,500,0.15,225.0,Dine-in
+PH-1059,2023-09-24,49,Jaipur,Rajasthan,North,Farmhouse,Medium,1,280,280,0.1,122.0,Takeaway
+PH-1060,2023-06-10,22,Bengaluru,Karnataka,South,Cheese Burst,Large,4,150,600,0.1,340.0,Delivery
+PH-1061,2023-12-23,33,Lucknow,Uttar Pradesh,North,Veggie Supreme,Small,4,300,1200,0.15,620.0,Takeaway
+PH-1062,2023-03-31,34,Hyderabad,Telangana,South,Margherita,Medium,3,250,750,0.05,412.5,Delivery
+PH-1063,2023-10-24,35,Kolkata,West Bengal,East,Mexican Green Wave,Medium,2,270,540,0.2,192.0,Delivery
+PH-1064,2023-03-28,20,Bengaluru,Karnataka,South,Farmhouse,Small,2,280,560,0.1,244.0,Dine-in
+PH-1065,2023-04-12,24,Mumbai,Maharashtra,West,Margherita,Small,4,250,1000,0.2,400.0,Dine-in
+PH-1066,2023-08-22,41,Ahmedabad,Gujarat,West,BBQ Chicken,Large,4,500,2000,0.15,900.0,Delivery
+PH-1067,2023-05-05,24,Mumbai,Maharashtra,West,Pepperoni,Medium,2,450,900,0.05,315.0,Takeaway
+PH-1068,2023-09-23,44,Mumbai,Maharashtra,West,BBQ Chicken,Small,4,500,2000,0.05,1100.0,Delivery
+PH-1069,2023-12-08,48,Lucknow,Uttar Pradesh,North,Farmhouse,Medium,5,280,1400,0.2,470.0,Delivery
+PH-1070,2023-10-08,43,Delhi,Delhi,North,Mexican Green Wave,Medium,3,270,810,0.05,409.5,Takeaway
+PH-1071,2023-05-22,48,Kolkata,West Bengal,East,BBQ Chicken,Medium,4,500,2000,0.0,1200.0,Takeaway
+PH-1072,2023-05-27,30,Bengaluru,Karnataka,South,Farmhouse,Medium,5,280,1400,0.0,750.0,Dine-in
+PH-1073,2023-03-19,29,Hyderabad,Telangana,South,Veggie Supreme,Large,2,300,600,0.0,400.0,Delivery
+PH-1074,2023-07-28,36,Lucknow,Uttar Pradesh,North,Mexican Green Wave,Medium,1,270,270,0.05,136.5,Delivery
+PH-1075,2023-07-19,16,Ahmedabad,Gujarat,West,Chicken Sausage,Medium,1,480,480,0.1,202.0,Delivery
+PH-1076,2023-07-19,41,Lucknow,Uttar Pradesh,North,BBQ Chicken,Medium,2,500,1000,0.1,500.0,Delivery
+PH-1077,2023-09-06,16,Hyderabad,Telangana,South,Farmhouse,Large,4,280,1120,0.05,544.0,Delivery
+PH-1078,2023-03-07,49,Mumbai,Maharashtra,West,Chicken Sausage,Large,5,480,2400,0.0,1250.0,Dine-in
+PH-1079,2023-11-26,42,Delhi,Delhi,North,Mexican Green Wave,Small,1,270,270,0.1,123.0,Delivery
+PH-1080,2023-06-17,28,Kolkata,West Bengal,East,Farmhouse,Medium,4,280,1120,0.1,488.0,Delivery
+PH-1081,2023-05-10,20,Kolkata,West Bengal,East,Margherita,Large,5,250,1250,0.0,750.0,Delivery
+PH-1082,2023-04-25,19,Mumbai,Maharashtra,West,Margherita,Small,2,250,500,0.0,300.0,Takeaway
+PH-1083,2023-03-20,30,Delhi,Delhi,North,Mexican Green Wave,Large,1,270,270,0.2,96.0,Dine-in
+PH-1084,2023-08-27,31,Chennai,Tamil Nadu,South,Veggie Supreme,Large,5,300,1500,0.0,1000.0,Dine-in
+PH-1085,2023-06-09,21,Ahmedabad,Gujarat,West,Margherita,Medium,5,250,1250,0.15,562.5,Delivery
+PH-1086,2023-04-12,19,Ahmedabad,Gujarat,West,BBQ Chicken,Small,3,500,1500,0.2,600.0,Dine-in
+PH-1087,2023-10-17,17,Chennai,Tamil Nadu,South,Chicken Sausage,Large,3,480,1440,0.0,750.0,Takeaway
+PH-1088,2023-11-28,36,Mumbai,Maharashtra,West,Chicken Sausage,Medium,1,480,480,0.15,178.0,Delivery
+PH-1089,2023-11-22,44,Delhi,Delhi,North,Chicken Sausage,Small,5,480,2400,0.1,1010.0,Takeaway
+PH-1090,2023-10-03,45,Kolkata,West Bengal,East,Chicken Sausage,Large,5,480,2400,0.1,1010.0,Delivery
+PH-1091,2023-05-06,20,Bengaluru,Karnataka,South,Mexican Green Wave,Small,4,270,1080,0.2,384.0,Takeaway
+PH-1092,2023-12-09,39,Chennai,Tamil Nadu,South,Margherita,Medium,3,250,750,0.05,412.5,Delivery
+PH-1093,2023-04-19,37,Bengaluru,Karnataka,South,Farmhouse,Medium,5,280,1400,0.1,610.0,Takeaway
+PH-1094,2023-01-06,48,Jaipur,Rajasthan,North,Pepperoni,Small,4,450,1800,0.15,450.0,Takeaway
+PH-1095,2023-05-04,45,Kolkata,West Bengal,East,Mexican Green Wave,Small,1,270,270,0.1,123.0,Dine-in
+PH-1096,2023-07-27,30,Bengaluru,Karnataka,South,Farmhouse,Medium,5,280,1400,0.2,470.0,Delivery
+PH-1097,2023-08-06,50,Chennai,Tamil Nadu,South,Farmhouse,Large,4,280,1120,0.1,488.0,Delivery
+PH-1098,2023-05-09,29,Pune,Maharashtra,West,BBQ Chicken,Medium,1,500,500,0.2,200.0,Takeaway
+PH-1099,2023-04-05,27,Jaipur,Rajasthan,North,Mexican Green Wave,Medium,5,270,1350,0.2,480.0,Takeaway
+PH-1100,2023-05-25,21,Jaipur,Rajasthan,North,Cheese Burst,Small,3,150,450,0.05,277.5,Delivery
+PH-1101,2023-01-08,49,Delhi,Delhi,North,Cheese Burst,Small,1,150,150,0.2,70.0,Delivery
+PH-1102,2023-12-24,23,Kolkata,West Bengal,East,Pepperoni,Small,5,450,2250,0.1,675.0,Delivery
+PH-1103,2023-09-03,43,Chennai,Tamil Nadu,South,Veggie Supreme,Small,3,300,900,0.15,465.0,Dine-in
+PH-1104,2023-02-03,40,Kolkata,West Bengal,East,Pepperoni,Large,1,450,450,0.05,157.5,Dine-in
+PH-1105,2023-10-16,34,Pune,Maharashtra,West,BBQ Chicken,Small,5,500,2500,0.15,1125.0,Takeaway
+PH-1106,2023-11-02,29,Lucknow,Uttar Pradesh,North,Chicken Sausage,Medium,4,480,1920,0.1,808.0,Takeaway
+PH-1107,2023-08-08,34,Ahmedabad,Gujarat,West,Margherita,Large,1,250,250,0.05,137.5,Takeaway
+PH-1108,2023-04-19,31,Pune,Maharashtra,West,Veggie Supreme,Small,2,300,600,0.2,280.0,Dine-in
+PH-1109,2023-03-22,15,Hyderabad,Telangana,South,Mexican Green Wave,Large,5,270,1350,0.15,547.5,Delivery
+PH-1110,2023-01-17,29,Bengaluru,Karnataka,South,Cheese Burst,Large,4,150,600,0.0,400.0,Takeaway
+PH-1111,2023-04-30,31,Ahmedabad,Gujarat,West,BBQ Chicken,Medium,1,500,500,0.2,200.0,Dine-in
+PH-1112,2023-11-28,24,Bengaluru,Karnataka,South,Veggie Supreme,Small,1,300,300,0.05,185.0,Delivery
+PH-1113,2023-11-01,33,Kolkata,West Bengal,East,Pepperoni,Medium,3,450,1350,0.15,337.5,Delivery
+PH-1114,2023-09-14,49,Kolkata,West Bengal,East,Mexican Green Wave,Small,5,270,1350,0.0,750.0,Delivery
+PH-1115,2023-06-15,31,Mumbai,Maharashtra,West,Pepperoni,Small,5,450,2250,0.2,450.0,Dine-in
+PH-1116,2023-12-11,32,Ahmedabad,Gujarat,West,Margherita,Small,4,250,1000,0.2,400.0,Takeaway
+PH-1117,2023-08-15,32,Delhi,Delhi,North,Chicken Sausage,Large,4,480,1920,0.0,1000.0,Delivery
+PH-1118,2023-06-28,41,Chennai,Tamil Nadu,South,Farmhouse,Large,1,280,280,0.05,136.0,Delivery
+PH-1119,2023-07-30,46,Bengaluru,Karnataka,South,Chicken Sausage,Large,1,480,480,0.15,178.0,Dine-in
+PH-1120,2023-06-11,31,Chennai,Tamil Nadu,South,Pepperoni,Medium,5,450,2250,0.0,900.0,Takeaway
+PH-1121,2023-10-05,44,Hyderabad,Telangana,South,Margherita,Small,5,250,1250,0.1,625.0,Takeaway
+PH-1122,2023-09-13,43,Mumbai,Maharashtra,West,BBQ Chicken,Medium,5,500,2500,0.05,1375.0,Delivery
+PH-1123,2023-08-13,46,Pune,Maharashtra,West,Margherita,Large,5,250,1250,0.05,687.5,Takeaway
+PH-1124,2023-03-23,34,Lucknow,Uttar Pradesh,North,Margherita,Large,4,250,1000,0.0,600.0,Dine-in
+PH-1125,2023-02-28,44,Pune,Maharashtra,West,Veggie Supreme,Medium,3,300,900,0.2,420.0,Takeaway
+PH-1126,2023-05-20,41,Kolkata,West Bengal,East,Mexican Green Wave,Small,4,270,1080,0.2,384.0,Dine-in
+PH-1127,2023-07-16,27,Ahmedabad,Gujarat,West,Veggie Supreme,Small,3,300,900,0.15,465.0,Delivery
+PH-1128,2023-09-17,32,Mumbai,Maharashtra,West,Cheese Burst,Large,3,150,450,0.2,210.0,Takeaway
+PH-1129,2023-12-04,46,Delhi,Delhi,North,Mexican Green Wave,Large,4,270,1080,0.1,492.0,Delivery
+PH-1130,2023-10-10,49,Hyderabad,Telangana,South,Mexican Green Wave,Medium,2,270,540,0.05,273.0,Takeaway
+PH-1131,2023-07-16,29,Hyderabad,Telangana,South,Margherita,Medium,4,250,1000,0.15,450.0,Delivery
+PH-1132,2023-12-06,24,Kolkata,West Bengal,East,Margherita,Small,5,250,1250,0.2,500.0,Delivery
+PH-1133,2023-02-21,43,Pune,Maharashtra,West,Mexican Green Wave,Small,2,270,540,0.15,219.0,Takeaway
+PH-1134,2023-03-21,19,Kolkata,West Bengal,East,Cheese Burst,Medium,5,150,750,0.15,387.5,Takeaway
+PH-1135,2023-02-11,36,Lucknow,Uttar Pradesh,North,Chicken Sausage,Medium,4,480,1920,0.2,616.0,Dine-in
+PH-1136,2023-11-13,19,Jaipur,Rajasthan,North,Cheese Burst,Small,1,150,150,0.15,77.5,Dine-in
+PH-1137,2023-11-21,21,Kolkata,West Bengal,East,Veggie Supreme,Large,3,300,900,0.0,600.0,Dine-in
+PH-1138,2023-06-16,18,Bengaluru,Karnataka,South,Farmhouse,Medium,4,280,1120,0.05,544.0,Dine-in
+PH-1139,2023-09-29,41,Ahmedabad,Gujarat,West,Veggie Supreme,Small,2,300,600,0.0,400.0,Takeaway
+PH-1140,2023-07-15,30,Kolkata,West Bengal,East,Veggie Supreme,Small,4,300,1200,0.1,680.0,Delivery
+PH-1141,2023-05-11,15,Kolkata,West Bengal,East,Cheese Burst,Large,5,150,750,0.05,462.5,Dine-in
+PH-1142,2023-08-15,37,Ahmedabad,Gujarat,West,Cheese Burst,Large,4,150,600,0.1,340.0,Delivery
+PH-1143,2023-06-04,27,Hyderabad,Telangana,South,Mexican Green Wave,Small,2,270,540,0.15,219.0,Takeaway
+PH-1144,2023-07-03,33,Bengaluru,Karnataka,South,Margherita,Large,4,250,1000,0.1,500.0,Dine-in
+PH-1145,2023-10-17,18,Ahmedabad,Gujarat,West,Mexican Green Wave,Medium,2,270,540,0.2,192.0,Delivery
+PH-1146,2023-04-23,27,Ahmedabad,Gujarat,West,Cheese Burst,Large,2,150,300,0.0,200.0,Takeaway
+PH-1147,2023-11-27,17,Bengaluru,Karnataka,South,Mexican Green Wave,Small,5,270,1350,0.1,615.0,Takeaway
+PH-1148,2023-03-09,20,Bengaluru,Karnataka,South,Farmhouse,Large,4,280,1120,0.05,544.0,Dine-in
+PH-1149,2023-03-09,49,Chennai,Tamil Nadu,South,Cheese Burst,Small,3,150,450,0.15,232.5,Delivery
+PH-1150,2023-06-23,22,Kolkata,West Bengal,East,Pepperoni,Small,2,450,900,0.15,225.0,Takeaway
+PH-1151,2023-07-07,20,Hyderabad,Telangana,South,Margherita,Medium,5,250,1250,0.0,750.0,Delivery
+PH-1152,2023-07-08,31,Ahmedabad,Gujarat,West,Chicken Sausage,Large,3,480,1440,0.0,750.0,Takeaway
+PH-1153,2023-04-30,45,Mumbai,Maharashtra,West,Farmhouse,Large,2,280,560,0.0,300.0,Takeaway
+PH-1154,2023-08-26,34,Hyderabad,Telangana,South,Pepperoni,Small,1,450,450,0.0,180.0,Delivery
+PH-1155,2023-09-10,22,Pune,Maharashtra,West,BBQ Chicken,Large,2,500,1000,0.15,450.0,Delivery
+PH-1156,2023-07-09,49,Hyderabad,Telangana,South,Veggie Supreme,Medium,1,300,300,0.15,155.0,Takeaway
+PH-1157,2023-07-28,32,Mumbai,Maharashtra,West,Farmhouse,Small,4,280,1120,0.15,432.0,Dine-in
+PH-1158,2023-07-05,21,Chennai,Tamil Nadu,South,Farmhouse,Small,4,280,1120,0.1,488.0,Dine-in
+PH-1159,2023-03-04,44,Pune,Maharashtra,West,BBQ Chicken,Large,5,500,2500,0.0,1500.0,Dine-in
+PH-1160,2023-06-20,30,Delhi,Delhi,North,BBQ Chicken,Small,5,500,2500,0.05,1375.0,Takeaway
+PH-1161,2023-04-21,29,Chennai,Tamil Nadu,South,Veggie Supreme,Large,1,300,300,0.1,170.0,Dine-in
+PH-1162,2023-03-08,49,Bengaluru,Karnataka,South,Veggie Supreme,Small,1,300,300,0.05,185.0,Dine-in
+PH-1163,2023-07-03,30,Ahmedabad,Gujarat,West,Farmhouse,Small,2,280,560,0.1,244.0,Dine-in
+PH-1164,2023-03-06,41,Lucknow,Uttar Pradesh,North,Pepperoni,Large,1,450,450,0.15,112.5,Delivery
+PH-1165,2023-07-05,47,Ahmedabad,Gujarat,West,Pepperoni,Medium,5,450,2250,0.05,787.5,Takeaway
+PH-1166,2023-01-23,48,Bengaluru,Karnataka,South,Mexican Green Wave,Large,1,270,270,0.0,150.0,Delivery
+PH-1167,2023-07-25,42,Pune,Maharashtra,West,Mexican Green Wave,Large,4,270,1080,0.0,600.0,Dine-in
+PH-1168,2023-06-14,24,Pune,Maharashtra,West,Veggie Supreme,Medium,5,300,1500,0.2,700.0,Takeaway
+PH-1169,2023-12-31,35,Hyderabad,Telangana,South,Cheese Burst,Medium,5,150,750,0.2,350.0,Delivery
+PH-1170,2023-02-20,22,Lucknow,Uttar Pradesh,North,BBQ Chicken,Medium,4,500,2000,0.05,1100.0,Delivery
+PH-1171,2023-06-23,44,Hyderabad,Telangana,South,Chicken Sausage,Large,1,480,480,0.1,202.0,Delivery
+PH-1172,2023-06-10,31,Chennai,Tamil Nadu,South,Veggie Supreme,Large,4,300,1200,0.0,800.0,Dine-in
+PH-1173,2023-02-13,20,Hyderabad,Telangana,South,Pepperoni,Large,3,450,1350,0.05,472.5,Takeaway
+PH-1174,2023-01-31,50,Lucknow,Uttar Pradesh,North,Farmhouse,Large,1,280,280,0.15,108.0,Delivery
+PH-1175,2023-12-07,42,Mumbai,Maharashtra,West,Cheese Burst,Large,3,150,450,0.1,255.0,Dine-in
+PH-1176,2023-10-23,47,Jaipur,Rajasthan,North,Veggie Supreme,Large,4,300,1200,0.05,740.0,Dine-in
+PH-1177,2023-06-29,50,Chennai,Tamil Nadu,South,Pepperoni,Medium,5,450,2250,0.05,787.5,Delivery
+PH-1178,2023-10-15,50,Mumbai,Maharashtra,West,Cheese Burst,Small,2,150,300,0.1,170.0,Takeaway
+PH-1179,2023-06-08,36,Chennai,Tamil Nadu,South,Margherita,Small,2,250,500,0.2,200.0,Takeaway
+PH-1180,2023-07-25,19,Delhi,Delhi,North,Margherita,Small,5,250,1250,0.05,687.5,Delivery
+PH-1181,2023-08-03,44,Chennai,Tamil Nadu,South,Veggie Supreme,Medium,3,300,900,0.1,510.0,Takeaway
+PH-1182,2023-11-02,20,Mumbai,Maharashtra,West,Veggie Supreme,Small,5,300,1500,0.0,1000.0,Takeaway
+PH-1183,2023-02-11,32,Kolkata,West Bengal,East,Chicken Sausage,Medium,5,480,2400,0.15,890.0,Delivery
+PH-1184,2023-05-20,28,Lucknow,Uttar Pradesh,North,Pepperoni,Medium,4,450,1800,0.0,720.0,Delivery
+PH-1185,2023-12-14,46,Lucknow,Uttar Pradesh,North,Cheese Burst,Small,2,150,300,0.15,155.0,Takeaway
+PH-1186,2023-01-29,15,Jaipur,Rajasthan,North,Cheese Burst,Small,2,150,300,0.1,170.0,Delivery
+PH-1187,2023-06-17,22,Mumbai,Maharashtra,West,Mexican Green Wave,Large,4,270,1080,0.05,546.0,Dine-in
+PH-1188,2023-07-14,49,Jaipur,Rajasthan,North,Farmhouse,Small,4,280,1120,0.0,600.0,Delivery
+PH-1189,2023-01-10,44,Pune,Maharashtra,West,Farmhouse,Large,4,280,1120,0.2,376.0,Delivery
+PH-1190,2023-12-30,41,Bengaluru,Karnataka,South,Pepperoni,Medium,1,450,450,0.1,135.0,Dine-in
+PH-1191,2023-11-13,44,Chennai,Tamil Nadu,South,Pepperoni,Medium,1,450,450,0.05,157.5,Delivery
+PH-1192,2023-10-29,40,Lucknow,Uttar Pradesh,North,Pepperoni,Medium,3,450,1350,0.1,405.0,Dine-in
+PH-1193,2023-06-20,25,Pune,Maharashtra,West,Pepperoni,Large,5,450,2250,0.05,787.5,Delivery
+PH-1194,2023-06-29,24,Jaipur,Rajasthan,North,Pepperoni,Small,3,450,1350,0.05,472.5,Dine-in
+PH-1195,2023-11-05,24,Pune,Maharashtra,West,Veggie Supreme,Large,4,300,1200,0.15,620.0,Takeaway
+PH-1196,2023-10-24,43,Ahmedabad,Gujarat,West,Farmhouse,Large,3,280,840,0.05,408.0,Delivery
+PH-1197,2023-02-04,45,Kolkata,West Bengal,East,Cheese Burst,Medium,5,150,750,0.0,500.0,Delivery
+PH-1198,2023-09-17,19,Bengaluru,Karnataka,South,Mexican Green Wave,Medium,1,270,270,0.0,150.0,Delivery
+PH-1199,2023-05-27,19,Pune,Maharashtra,West,Chicken Sausage,Medium,5,480,2400,0.2,770.0,Takeaway
+PH-1200,2023-01-22,43,Ahmedabad,Gujarat,West,BBQ Chicken,Medium,5,500,2500,0.15,1125.0,Takeaway
+PH-1201,2023-03-19,18,Kolkata,West Bengal,East,Pepperoni,Medium,1,450,450,0.2,90.0,Takeaway
+PH-1202,2023-03-30,17,Jaipur,Rajasthan,North,Mexican Green Wave,Medium,5,270,1350,0.2,480.0,Takeaway
+PH-1203,2023-03-23,38,Chennai,Tamil Nadu,South,Cheese Burst,Medium,4,150,600,0.1,340.0,Takeaway
+PH-1204,2023-11-03,18,Chennai,Tamil Nadu,South,Pepperoni,Medium,1,450,450,0.2,90.0,Takeaway
+PH-1205,2023-07-17,33,Bengaluru,Karnataka,South,Veggie Supreme,Medium,1,300,300,0.2,140.0,Takeaway
+PH-1206,2023-03-14,37,Bengaluru,Karnataka,South,Chicken Sausage,Small,5,480,2400,0.0,1250.0,Delivery
+PH-1207,2023-10-14,39,Chennai,Tamil Nadu,South,Veggie Supreme,Large,5,300,1500,0.0,1000.0,Takeaway
+PH-1208,2023-12-10,42,Lucknow,Uttar Pradesh,North,Farmhouse,Small,3,280,840,0.1,366.0,Dine-in
+PH-1209,2023-04-20,36,Kolkata,West Bengal,East,BBQ Chicken,Small,2,500,1000,0.05,550.0,Dine-in
+PH-1210,2023-06-01,21,Lucknow,Uttar Pradesh,North,Margherita,Large,3,250,750,0.2,300.0,Dine-in
+PH-1211,2023-11-02,39,Delhi,Delhi,North,Veggie Supreme,Small,5,300,1500,0.05,925.0,Takeaway
+PH-1212,2023-08-13,17,Hyderabad,Telangana,South,Farmhouse,Large,2,280,560,0.15,216.0,Takeaway
+PH-1213,2023-05-26,43,Jaipur,Rajasthan,North,BBQ Chicken,Medium,4,500,2000,0.05,1100.0,Delivery
+PH-1214,2023-12-14,43,Kolkata,West Bengal,East,Cheese Burst,Medium,5,150,750,0.2,350.0,Delivery
+PH-1215,2023-03-24,27,Ahmedabad,Gujarat,West,Veggie Supreme,Medium,1,300,300,0.15,155.0,Delivery
+PH-1216,2023-10-11,21,Lucknow,Uttar Pradesh,North,Pepperoni,Medium,1,450,450,0.05,157.5,Delivery
+PH-1217,2023-08-19,47,Delhi,Delhi,North,Chicken Sausage,Small,2,480,960,0.15,356.0,Delivery
+PH-1218,2023-01-14,41,Mumbai,Maharashtra,West,Chicken Sausage,Large,3,480,1440,0.05,678.0,Delivery
+PH-1219,2023-02-11,38,Jaipur,Rajasthan,North,Margherita,Medium,1,250,250,0.1,125.0,Dine-in
+PH-1220,2023-03-12,17,Bengaluru,Karnataka,South,Mexican Green Wave,Large,2,270,540,0.15,219.0,Delivery
+PH-1221,2023-11-12,15,Pune,Maharashtra,West,Margherita,Medium,2,250,500,0.05,275.0,Takeaway
+PH-1222,2023-11-08,48,Hyderabad,Telangana,South,Pepperoni,Medium,2,450,900,0.1,270.0,Dine-in
+PH-1223,2023-01-25,30,Hyderabad,Telangana,South,Mexican Green Wave,Small,1,270,270,0.15,109.5,Takeaway
+PH-1224,2023-10-02,16,Lucknow,Uttar Pradesh,North,BBQ Chicken,Large,2,500,1000,0.1,500.0,Delivery
+PH-1225,2023-01-01,37,Jaipur,Rajasthan,North,Chicken Sausage,Small,1,480,480,0.2,154.0,Delivery
+PH-1226,2023-02-04,48,Lucknow,Uttar Pradesh,North,Margherita,Medium,4,250,1000,0.0,600.0,Takeaway
+PH-1227,2023-07-18,38,Bengaluru,Karnataka,South,Margherita,Medium,1,250,250,0.1,125.0,Dine-in
+PH-1228,2023-12-03,21,Ahmedabad,Gujarat,West,Farmhouse,Small,1,280,280,0.1,122.0,Takeaway
+PH-1229,2023-06-23,26,Kolkata,West Bengal,East,Mexican Green Wave,Large,2,270,540,0.05,273.0,Dine-in
+PH-1230,2023-08-23,17,Bengaluru,Karnataka,South,BBQ Chicken,Small,2,500,1000,0.0,600.0,Delivery
+PH-1231,2023-06-08,47,Hyderabad,Telangana,South,Mexican Green Wave,Medium,1,270,270,0.05,136.5,Delivery
+PH-1232,2023-07-02,18,Chennai,Tamil Nadu,South,Cheese Burst,Small,3,150,450,0.15,232.5,Delivery
+PH-1233,2023-08-14,39,Chennai,Tamil Nadu,South,Veggie Supreme,Medium,4,300,1200,0.1,680.0,Takeaway
+PH-1234,2023-05-17,20,Hyderabad,Telangana,South,Pepperoni,Medium,5,450,2250,0.05,787.5,Takeaway
+PH-1235,2023-05-31,35,Pune,Maharashtra,West,Pepperoni,Medium,3,450,1350,0.1,405.0,Delivery
+PH-1236,2023-11-05,42,Delhi,Delhi,North,Mexican Green Wave,Medium,4,270,1080,0.0,600.0,Takeaway
+PH-1237,2023-06-30,42,Bengaluru,Karnataka,South,Margherita,Small,4,250,1000,0.1,500.0,Takeaway
+PH-1238,2023-12-14,25,Mumbai,Maharashtra,West,Veggie Supreme,Large,4,300,1200,0.0,800.0,Dine-in
+PH-1239,2023-02-04,30,Chennai,Tamil Nadu,South,Farmhouse,Medium,5,280,1400,0.0,750.0,Takeaway
+PH-1240,2023-03-20,43,Chennai,Tamil Nadu,South,Farmhouse,Medium,1,280,280,0.2,94.0,Dine-in
+PH-1241,2023-09-29,38,Hyderabad,Telangana,South,Farmhouse,Large,3,280,840,0.05,408.0,Dine-in
+PH-1242,2023-01-14,26,Kolkata,West Bengal,East,Chicken Sausage,Large,1,480,480,0.1,202.0,Delivery
+PH-1243,2023-12-27,43,Jaipur,Rajasthan,North,Cheese Burst,Large,4,150,600,0.05,370.0,Dine-in
+PH-1244,2023-03-11,19,Kolkata,West Bengal,East,Veggie Supreme,Large,4,300,1200,0.0,800.0,Takeaway
+PH-1245,2023-06-13,37,Pune,Maharashtra,West,Cheese Burst,Medium,2,150,300,0.05,185.0,Delivery
+PH-1246,2023-09-18,29,Pune,Maharashtra,West,BBQ Chicken,Small,2,500,1000,0.15,450.0,Dine-in
+PH-1247,2023-07-04,50,Ahmedabad,Gujarat,West,Farmhouse,Medium,5,280,1400,0.05,680.0,Takeaway
+PH-1248,2023-02-14,19,Bengaluru,Karnataka,South,Chicken Sausage,Large,4,480,1920,0.2,616.0,Delivery
+PH-1249,2023-07-29,19,Delhi,Delhi,North,Farmhouse,Large,1,280,280,0.15,108.0,Delivery
+PH-1250,2023-12-15,48,Chennai,Tamil Nadu,South,Veggie Supreme,Large,5,300,1500,0.05,925.0,Dine-in
